@@ -1,0 +1,5 @@
+reset_color = "\x1b[0m"
+red_color = "\x1b[31m"
+green_color = "\x1b[32m"
+yellow_color = "\x1b[33m"
+blue_color = "\x1b[34m"
